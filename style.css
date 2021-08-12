@@ -1,0 +1,408 @@
+/* Top-Section */
+#top{
+  background-color: #FDF6F0;
+  padding: 30px;
+  padding: 60px;
+}
+.brand-name{
+  font-size: 2.5rem;
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: #0F044C;
+}
+.mob
+{
+  color:#FF6767;
+}
+li{
+  font-size:1rem;
+}
+
+.items{
+  margin-right: 50px;
+}
+.loginbtn{
+  border-radius: 20px;
+  background-color: #FF6767;
+  margin-left: 50px;
+  width:120px;
+  color: White;
+}
+.loginbtn:hover{
+  background-color: #FA8072;
+}
+.title-content{
+  padding-top: 50px;
+  padding-left: 30px;
+}
+.title-heading
+{
+  width:50%;
+  text-align: left;
+  color:#0F044C;
+  font-weight: 900;
+}
+.top-p{
+text-align: left;
+width:60%;
+color: grey;
+font-family: 'Merriweather', serif;
+padding-top: 20px;
+padding-bottom: 20px;
+line-height: 1.5;
+}
+.title-img{
+  width:500px;
+  height: 500px;
+}
+.getbtn{
+  background-color: #FF6767;
+  border-radius: 20px;
+  color: White;
+}
+.getbtn:hover{
+  background-color: #FA8072;
+}
+.marketing-part{
+  border-top-left-radius:20px;
+  border-bottom-left-radius: 20px;
+  background-color: white;
+  position :absolute;
+  right:0;
+  padding:3rem 2rem;
+  margin-right: 0;
+  width:50%;
+  box-shadow: 0 0 10px grey;
+}
+.img-part{
+  text-align: center;
+}
+.marketing{
+  width:120px;
+  height:60px;
+}
+
+/* middle section */
+
+#middle{
+  background-color: white;
+  margin:15rem 8rem;
+}
+.middle-heading{
+  width:30%;
+  text-align: left;
+  color:#0F044C;
+  font-weight: 900;
+
+}
+
+.funct-heading{
+  color:#0F044C;
+  width:80%;
+  font-size: 1.5rem;
+  font-weight: 900;
+  padding-top:10px;
+}
+.middle-p{
+  font-size: .75rem;
+  color:grey;
+  font-family: 'Merriweather', serif;
+  width:80%;
+  line-height: 2;
+  padding-top:10px;
+}
+.function-section{
+  margin-top: 3rem;
+  position: relative;
+  height:1000px;
+}
+.box{
+width:300px;
+height:300px;
+border-style: solid;
+border-radius: 10px;
+border-width: 1px;
+margin: auto;
+line-height: 2;
+padding: 10px;
+text-align:left;
+box-shadow: 0 0 10px grey;
+border-color: white;
+}
+.img-funct{
+  width:50px;
+  height: 50px;
+}
+
+.arr{
+  font-size: 2rem;
+  color: grey;
+}
+.arr:hover{
+  color:black;
+}
+.seo{
+  position: absolute;
+  left:2rem;
+  top:550px;
+}
+.sem{
+  position: absolute;
+  top:330px;
+  left:350px;
+}
+.remarketing{
+  position: absolute;
+  left:350px;
+  top:650px;
+}
+.smd{
+  position: absolute;
+  left:670px;
+  top:40px;
+}
+.wdo{
+  position: absolute;
+  left:670px;
+  top:370px;
+}
+.report{
+  position: absolute;
+  left:670px;
+  top:690px;
+}
+ /* working-section */
+.working-section{
+  margin-top: 70px;
+}
+.box2{
+  box-shadow: 0 0 10px grey;
+  border-color: white;
+  width:250px;
+  height:70px;
+  margin: 20px;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 1px;
+  text-align: center;
+  padding: 2px;
+}
+.flex{
+  display:inline-flex;
+  padding-top: 30px;
+  margin-left: 20px;
+}
+.working-p{
+  font-size: 1.5rem;
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+  padding-top:10px;
+}
+.arrow{
+  color:grey;
+  font-size: 2rem;
+  border-radius: 50% grey;
+  padding:40px 10px;
+}
+/* client-section */
+
+.client-section{
+  margin-top: 70px;
+}
+.client-img{
+  width:120px;
+  height: 60px;
+  padding:10px;
+  margin: auto;
+}
+
+/* team-section */
+.team-section{
+  margin-top: 70px;
+}
+.team-section{
+position: relative;
+height:1000px;
+}
+.dp{
+  border-radius: 50%;
+  width:150px;
+  height: 150px;
+}
+.team-profile{
+  text-align: center;
+  width:250px;
+  height:250px;
+}
+.name{
+  color:#0F044C;
+  padding-top: 10px;
+  font-weight: 900;
+  font-size: 1rem;
+}
+.designation{
+  font-size: .75rem;
+  color:grey;
+  font-family: 'Merriweather', serif;
+  width:80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.two{
+  position: absolute;
+  top:140px;
+  left:300px;
+}
+.three{
+  position: absolute;
+  left:600px;
+  top:50px;
+}
+.four{
+  position: absolute;
+  left:900px;
+  top:140px;
+}
+.six{
+  position: absolute;
+  top:300px;
+
+}
+.eight{
+  position: absolute;
+  top:450px;
+  left:300px;
+}
+.five{
+  position: absolute;
+  top:300px;
+  left: 600px;
+}
+.seven{
+  position: absolute;
+  top:450px;
+  left:900px;
+}
+.nine{
+  position: absolute;
+  left:600px;
+  top:600px
+}
+
+/* Blog-section */
+.blogs{
+  box-shadow: 0 0 10px grey;
+  border-color: white;
+  width:300px;
+  height: 500px;
+  border-radius: 20px;
+  border: solid white;
+  padding:50px;
+  margin-top: 50px;
+  margin-right: 30px;
+}
+.blog-heading{
+  font-weight: 600;
+  font-size: 1.5rem;
+  width:100%;
+  font-size: 1rem;
+}
+.blog-img{
+  width:180px;
+  height: 100px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
+.blog-p{
+  font-size: .75rem;
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+  padding-top:10px;
+}
+
+/* newsletter-section */
+.newsletter-section{
+  margin-top: 70px;
+  text-align: center;
+}
+.subs{
+  width:40%;
+  margin: auto;
+  text-align: center;
+}
+
+.box3{
+  width:30%;
+  height: 10%;
+  padding:23px;
+  border-radius: 40px;
+  box-shadow: 0 0 10px grey;
+  border-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+input{
+  border: none;
+}
+input:focus{
+  outline: none;
+}
+.sub-btn{
+  position: relative;
+  left:30px;
+}
+
+
+/* footer-section */
+#footer{
+  background-color: #FDF6F0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.footer-section{
+  margin-top:20px;
+  padding:50px 100px;
+}
+.foo-i{
+  color:black;
+  font-size: 1rem;
+  border-radius:100%;
+  border:1px solid #FF6767;
+  padding: 10px;
+  margin-right: 2%;
+  padding:10px;
+}
+.foo-i:hover{
+  color:grey;
+}
+.about-section{
+  margin-top:10rem;
+  margin-right: 20rem;
+  margin-left: -10rem;
+  width:30%;
+}
+
+.foo-li{
+  color:grey;
+  font-family: 'Merriweather', serif;
+  font-size: .75rem;
+  font-weight: 500;
+  margin-left: 5px;
+}
+
+.list{
+  list-style:none;
+}
+li{
+  margin-bottom: 2rem;
+  margin-left: -2.5rem;
+}
+
+.contact-section{
+  margin-top: 10rem;
+  margin-right: 10rem;
+  margin-left: -10rem;
+  width:30%;
+}
